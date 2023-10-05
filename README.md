@@ -1,6 +1,5 @@
 # MIPS-PIPELINED
 
-
 ## Five stages of MIPS pipelined implementation :
 1) IF: Instruction fetch
 2) ID: Instruction decode and register file read
